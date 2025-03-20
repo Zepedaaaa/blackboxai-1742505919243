@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la capital de Francia?",
+      "answers": [
+        { "text": "París", "correct": true },
+        { "text": "Londres", "correct": false },
+        { "text": "Madrid", "correct": false },
+        { "text": "Roma", "correct": false }
+      ],
+      "timeLimit": 15
+    },
+    {
+      "id": 2,
+      "question": "¿En qué año comenzó la Segunda Guerra Mundial?",
+      "answers": [
+        { "text": "1939", "correct": true },
+        { "text": "1945", "correct": false },
+        { "text": "1914", "correct": false },
+        { "text": "1941", "correct": false }
+      ],
+      "timeLimit": 15
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es el elemento químico más abundante en el universo?",
+      "answers": [
+        { "text": "Hidrógeno", "correct": true },
+        { "text": "Oxígeno", "correct": false },
+        { "text": "Carbono", "correct": false },
+        { "text": "Helio", "correct": false }
+      ],
+      "timeLimit": 15
+    },
+    {
+      "id": 4,
+      "question": "¿Quién pintó la Mona Lisa?",
+      "answers": [
+        { "text": "Leonardo da Vinci", "correct": true },
+        { "text": "Miguel Ángel", "correct": false },
+        { "text": "Pablo Picasso", "correct": false },
+        { "text": "Vincent van Gogh", "correct": false }
+      ],
+      "timeLimit": 15
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál es el planeta más grande del sistema solar?",
+      "answers": [
+        { "text": "Júpiter", "correct": true },
+        { "text": "Saturno", "correct": false },
+        { "text": "Marte", "correct": false },
+        { "text": "Venus", "correct": false }
+      ],
+      "timeLimit": 15
+    }
+  ]
+}
